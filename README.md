@@ -55,3 +55,4 @@ Python, TensorFlow/Keras, PyTorch, Scikit-learn, Pandas, NumPy, Kaggle
 - `jana-saati.ipynb`: project code
 - `Tamra-Project.pdf`: project report
 - `SODA Challenge
+📢 Official announcement by UQU College of Computing- https://x.com/uqu_cc/status/2049025774116544880?s=46&t=2nnnu3k-uezeJSUcUaXvYw
